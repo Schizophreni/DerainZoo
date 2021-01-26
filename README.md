@@ -46,6 +46,8 @@
    * Chen, Hanting etc. Pre-Trained Image Processing Transformer. (Arxiv 2020)
 
 ### 2020
+* NAS [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf)][[code]()]
+   * Ruoteng Li, etc. All in One Bad Weather Removal using Architectural Search. (CVPR 2020)
 * WDNet [[paper](https://arxiv.org/pdf/2008.00823.pdf)][[code]()][[web]()]
    * Liu, Lin etc. Wavelet-Based Dual-Branch Network for Image Demoir´eing. (2020 ECCV)
 
