@@ -91,6 +91,8 @@
    * Rajeev Yasarla et al. Confidence Measure Guided Single Image De-Raining. (2020 TIP)
 
 ### 2019
+* RainFlow [[paper](https://fqnchina.github.io/QingnanFan_files/iccv_2019.pdf)][[code](https://github.com/liruoteng/RainFlow)]
+   * Ruoteng Li et al. RainFlow: Optical Flow under Rain Streaks and Rain Veiling Effect. (2019 ICCV)
 * Survey [[paper](https://arxiv.org/pdf/1912.07150.pdf)][code][web]
    * Yang, Wenhan et al. Single Image Deraining: From Model-Based to Data-Driven and Beyond. (2019 TPAMI)
    
