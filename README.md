@@ -46,6 +46,8 @@
    * Chen, Hanting etc. Pre-Trained Image Processing Transformer. (Arxiv 2020)
 
 ### 2020
+* ForkGAN[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf)][[code](https://github.com/zhengziqiang/ForkGAN)]
+   * Ziqiang Zheng, et al. ForkGAN: Seeing into the Rainy Night. (ECCV 2020)
 * NAS [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf)][[code]()]
    * Ruoteng Li, etc. All in One Bad Weather Removal using Architectural Search. (CVPR 2020)
 * WDNet [[paper](https://arxiv.org/pdf/2008.00823.pdf)][[code]()][[web]()]
