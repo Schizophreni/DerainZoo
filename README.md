@@ -1,4 +1,4 @@
-# DerainZoo (Single Image vs. Video Based)
+# DerainZoo (Single Image vs. Video Based) Forked from nnUyi
 [Youzhao Yang](https://github.com/nnuyi), [Hong Lu](http://homepage.fudan.edu.cn/honglu/machine-vision-lab/) in [Fudan Machine Vision Lab](https://github.com/FudanMV)
 
 ## 1 Description
@@ -46,6 +46,8 @@
    * Chen, Hanting etc. Pre-Trained Image Processing Transformer. (Arxiv 2020)
 
 ### 2020
+* SLDNet[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_A_Model-Driven_Deep_Neural_Network_for_Single_Image_Rain_Removal_CVPR_2020_paper.pdf)][code not available]
+   * Wenhan Yang et al. Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence. (CVPR2020) 
 * ForkGAN[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf)][[code](https://github.com/zhengziqiang/ForkGAN)]
    * Ziqiang Zheng, et al. ForkGAN: Seeing into the Rainy Night. (ECCV 2020)
 * NAS [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf)][[code]()]
