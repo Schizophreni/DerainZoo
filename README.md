@@ -43,7 +43,7 @@
    - Ruijie Quan et al. Removing Raindrops and Rain Streaks in One Go. (CVPR 2021)
 * MonteCarloEM [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Semi-Supervised_Video_Deraining_With_Dynamical_Rain_Generator_CVPR_2021_paper.pdf)][[code](https://github.com/zsyOAOA/S2VD)]
    - Zongsheng Yue et al. Semi-Supervised Video Deraining with Dynamical Rain Generator. (CVPR 2021)
-* ClosingLoop [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ye_Closing_the_Loop_Joint_Rain_Generation_and_Removal_via_Disentangled_CVPR_2021_paper.pdf][code not accessible]
+* ClosingLoop [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ye_Closing_the_Loop_Joint_Rain_Generation_and_Removal_via_Disentangled_CVPR_2021_paper.pdf)][code not accessible]
    - Yuntong Ye et al. Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation. (CVPR 2021) 
 * VRGNet [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_From_Rain_Generation_to_Rain_Removal_CVPR_2021_paper.pdf)][[code](https://github.com/hongwang01/VRGNet)]
    * Hong Wang et al. From Rain Generation to Rain Removal. (CVPR 2021)
