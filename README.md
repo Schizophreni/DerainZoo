@@ -38,7 +38,7 @@
 
 ### 3.2 Papers
 --------------
-### 2021
+### 2021 (Mainly focus on Rain Generation and Rain Removal)
 * CCN [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Quan_Removing_Raindrops_and_Rain_Streaks_in_One_Go_CVPR_2021_paper.pdf)][code not accessible]
    - Ruijie Quan et al. Removing Raindrops and Rain Streaks in One Go. (CVPR 2021)
 * MonteCarloEM [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Semi-Supervised_Video_Deraining_With_Dynamical_Rain_Generator_CVPR_2021_paper.pdf)][[code](https://github.com/zsyOAOA/S2VD)]
