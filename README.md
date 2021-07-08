@@ -56,6 +56,10 @@
    * Chen, Hanting etc. Pre-Trained Image Processing Transformer. (Arxiv 2020)
 
 ### 2020
+* Beyond Monocular Deraining [[paper](https://link.zhihu.com/?target=https%3A//www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720069.pdf)][code not accessible]
+   - Kaihao Zhang et al. Beyond Monocular Deraining: Stereo Image Deraining via Semantic Understanding. (ECCV 2020)
+* HardGAN [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510715.pdf)][[code](https://github.com/huangzilingcv/HardGAN)]
+   - Qili Deng et al. HardGAN: A Haze-Aware Representation Distillation GAN for Single Image Dehazing. (ECCV 2020)
 * SLDNet[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_A_Model-Driven_Deep_Neural_Network_for_Single_Image_Rain_Removal_CVPR_2020_paper.pdf)][code not accessible]
    * Wenhan Yang et al. Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence. (CVPR2020) 
 * ForkGAN[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf)][[code](https://github.com/zhengziqiang/ForkGAN)]
