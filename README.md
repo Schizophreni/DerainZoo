@@ -39,6 +39,16 @@
 ### 3.2 Papers
 --------------
 ### 2021
+* CCN [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Quan_Removing_Raindrops_and_Rain_Streaks_in_One_Go_CVPR_2021_paper.pdf)][code not accessible]
+   - Ruijie Quan et al. Removing Raindrops and Rain Streaks in One Go. (CVPR 2021)
+* MonteCarloEM [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Semi-Supervised_Video_Deraining_With_Dynamical_Rain_Generator_CVPR_2021_paper.pdf)][[code](https://github.com/zsyOAOA/S2VD)]
+   - Zongsheng Yue et al. Semi-Supervised Video Deraining with Dynamical Rain Generator. (CVPR 2021)
+* ClosingLoop [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ye_Closing_the_Loop_Joint_Rain_Generation_and_Removal_via_Disentangled_CVPR_2021_paper.pdf][code not accessible]
+   - Yuntong Ye et al. Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation. (CVPR 2021) 
+* VRGNet [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_From_Rain_Generation_to_Rain_Removal_CVPR_2021_paper.pdf)][[code](https://github.com/hongwang01/VRGNet)]
+   * Hong Wang et al. From Rain Generation to Rain Removal. (CVPR 2021)
+* RICNet [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ni_Controlling_the_Rain_From_Removal_to_Rendering_CVPR_2021_paper.pdf)][code not accessible]
+   * Siqi Ni, et al. Controlling the Rain: from Removal to Rendering. (CVPR 2021)
 * DualGCN [[paper](https://xueyangfu.github.io/paper/2021/AAAI/Preprint.pdf)][[code](https://xueyangfu.github.io/paper/2021/AAAI/code.zip)][[web](https://xueyangfu.github.io)]
    * Xueyang Fu, Qi Qi, etc. Rain Streak Removal via Dual Graph Convolutional Network. (AAAI 2021)
    
@@ -46,7 +56,7 @@
    * Chen, Hanting etc. Pre-Trained Image Processing Transformer. (Arxiv 2020)
 
 ### 2020
-* SLDNet[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_A_Model-Driven_Deep_Neural_Network_for_Single_Image_Rain_Removal_CVPR_2020_paper.pdf)][code not available]
+* SLDNet[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_A_Model-Driven_Deep_Neural_Network_for_Single_Image_Rain_Removal_CVPR_2020_paper.pdf)][code not accessible]
    * Wenhan Yang et al. Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence. (CVPR2020) 
 * ForkGAN[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480154.pdf)][[code](https://github.com/zhengziqiang/ForkGAN)]
    * Ziqiang Zheng, et al. ForkGAN: Seeing into the Rainy Night. (ECCV 2020)
